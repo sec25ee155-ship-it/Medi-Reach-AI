@@ -1,0 +1,5 @@
+case,age,temperature_c,heart_rate,systolic_bp,diastolic_bp,spo2,symptoms
+Routine example,35,36.8,78,118,76,98,none
+Fever example,24,38.5,96,120,80,97,"fever, cough"
+Needs prompt review,68,37.2,108,158,96,93,weakness
+Urgent warning example,52,37.0,118,90,60,88,breathlessness
